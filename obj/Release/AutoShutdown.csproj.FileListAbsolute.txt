@@ -1,0 +1,7 @@
+C:\Users\ASUS\source\repos\AutoShutdown\AutoShutdown\bin\Release\AutoShutdown.exe.config
+C:\Users\ASUS\source\repos\AutoShutdown\AutoShutdown\bin\Release\AutoShutdown.exe
+C:\Users\ASUS\source\repos\AutoShutdown\AutoShutdown\bin\Release\AutoShutdown.pdb
+C:\Users\ASUS\source\repos\AutoShutdown\AutoShutdown\obj\Release\AutoShutdown.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\AutoShutdown\AutoShutdown\obj\Release\AutoShutdown.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\AutoShutdown\AutoShutdown\obj\Release\AutoShutdown.exe
+C:\Users\ASUS\source\repos\AutoShutdown\AutoShutdown\obj\Release\AutoShutdown.pdb
